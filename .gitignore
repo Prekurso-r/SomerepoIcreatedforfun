@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# CS50 distribution data — large IMDb dataset (~56 MB), not source.
+# Note: degrees/large/ was already committed before this file existed, so it
+# stays tracked; this only keeps new copies out.
+degrees/large/
